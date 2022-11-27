@@ -29,7 +29,7 @@ function MyApp({ Component, pageProps }) {
           function gtag(){window.dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-43GWDJQ25E');
+          gtag('config', 'G-6CNRL91E6G');
         `}
       </Script>
       <CartProvider>
